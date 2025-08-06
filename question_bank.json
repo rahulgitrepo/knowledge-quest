@@ -1,0 +1,189 @@
+[
+    {
+        "question": "Who is known as the father of AI?",
+        "options": [
+            "Alan Turing",
+            "Elon Musk",
+            "John McCarthy",
+            "Andrew Ng"
+        ],
+        "answer": "John McCarthy"
+    },
+    {
+        "question": "When was the term 'Artificial Intelligence' coined?",
+        "options": [
+            "1945",
+            "1956",
+            "1980",
+            "2001"
+        ],
+        "answer": "1956"
+    },
+    {
+        "question": "What is a neural network inspired by?",
+        "options": [
+            "Internet routers",
+            "Human brain",
+            "Solar systems",
+            "Computer chips"
+        ],
+        "answer": "Human brain"
+    },
+    {
+        "question": "What does NLP stand for in AI?",
+        "options": [
+            "Neural Learning Protocol",
+            "Natural Language Processing",
+            "Numeric Logic Programming",
+            "Network Learning Path"
+        ],
+        "answer": "Natural Language Processing"
+    },
+    {
+        "question": "Which of these is an AI assistant?",
+        "options": [
+            "Siri",
+            "Firefox",
+            "Excel",
+            "Photoshop"
+        ],
+        "answer": "Siri"
+    },
+    {
+        "question": "What is supervised learning?",
+        "options": [
+            "Learning with labeled data",
+            "Learning without data",
+            "Learning by watching videos",
+            "Learning through games"
+        ],
+        "answer": "Learning with labeled data"
+    },
+    {
+        "question": "Which is an example of unsupervised learning?",
+        "options": [
+            "Image classification",
+            "Spam detection",
+            "Customer segmentation",
+            "Language translation"
+        ],
+        "answer": "Customer segmentation"
+    },
+    {
+        "question": "What is reinforcement learning based on?",
+        "options": [
+            "Repetition",
+            "Rewards and penalties",
+            "Supervision",
+            "Guesswork"
+        ],
+        "answer": "Rewards and penalties"
+    },
+    {
+        "question": "Which language is popular for AI development?",
+        "options": [
+            "HTML",
+            "Python",
+            "CSS",
+            "SQL"
+        ],
+        "answer": "Python"
+    },
+    {
+        "question": "What are decision trees used for?",
+        "options": [
+            "Drawing diagrams",
+            "Making predictions",
+            "Growing data",
+            "Sorting files"
+        ],
+        "answer": "Making predictions"
+    },
+    {
+        "question": "What is deep learning?",
+        "options": [
+            "Learning in deep oceans",
+            "A type of machine learning with many layers",
+            "Learning with deep thoughts",
+            "A slow learning process"
+        ],
+        "answer": "A type of machine learning with many layers"
+    },
+    {
+        "question": "What is one ethical concern in AI?",
+        "options": [
+            "Too much data",
+            "Bias in decision-making",
+            "Fast processing",
+            "High cost"
+        ],
+        "answer": "Bias in decision-making"
+    },
+    {
+        "question": "How do chatbots use AI?",
+        "options": [
+            "By guessing",
+            "By using Natural Language Processing",
+            "By calling humans",
+            "By using spreadsheets"
+        ],
+        "answer": "By using Natural Language Processing"
+    },
+    {
+        "question": "Which U.S. government agency is primarily responsible for regulating nuclear power plants?",
+        "options": [
+            "Department of Energy",
+            "Environmental Protection Agency",
+            "Nuclear Regulatory Commission",
+            "National Nuclear Security Administration"
+        ],
+        "answer": "Nuclear Regulatory Commission"
+    },
+    {
+        "question": "What is the most commonly used fuel in U.S. nuclear reactors?",
+        "options": [
+            "Plutonium-239",
+            "Thorium",
+            "Uranium-235",
+            "Deuterium"
+        ],
+        "answer": "Uranium-235"
+    },
+    
+{
+        "question": "What year was Southern Company founded?",
+        "options": ["1912", "1924", "1898", "1917"],
+        "answer": "1912"
+    },
+    {
+        "question": "What is Southern Company's stock ticker symbol?",
+        "options": ["SCY", "STHN", "SO", "SOC"],
+        "answer": "SO"
+    },
+    {
+        "question": "Southern Company's long-term environmental goal is to achieve net-zero emissions by what year?",
+        "options": ["2030", "2040", "2050", "2060"],
+        "answer": "2050"
+    },
+    {
+        "question": "How many customers does Southern Company support across all of its subsidiaries?",
+        "options": ["1 million", "3 million", "7 million", "9 million"],
+        "answer": "9 million"
+    },
+    {
+        "question": "Which of the following is NOT one of Southern Company's core values?",
+        "options": ["Safety First", "Act with Integrity", "Sustainable Growth", "Superior Performance"],
+        "answer": "Sustainable Growth"
+    },
+    {
+        "question": "As of 2025, where does Southern Company rank on the Fortune 500 list?",
+        "options": ["98", "163", "210", "306"],
+        "answer": "163"
+    },
+    {
+        "question": "Southern Company's workforce is roughly the size of a small city! Which of the following U.S. cities has a population closest to the number of Southern Company employees?",
+        "options": ["Juneau, Alaska (31,973)", "Helena, Montana (28,000)", "Sedona, Arizona (9,900)", "Hoboken, New Jersey (58,690)"],
+        "answer": "Helena, Montana (28,000)"
+    }
+
+]   
