@@ -246,5 +246,3 @@ def catch_all(path):
 # Azure-compatible startup
 if __name__ == "__main__":
     flask_app.run(host="0.0.0.0", port=8000, debug=True)
-#   D u m m y   c o m m i t   t o   t r i g g e r   w o r k f l o w  
- 
