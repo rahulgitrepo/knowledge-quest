@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:  # Add this line to enable manual re-runs
 
 jobs:
   build-and-deploy:
